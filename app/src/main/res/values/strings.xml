@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidPython</string>
+    <string name="text">text</string>
+    <string name="execute">execute</string>
+</resources>
